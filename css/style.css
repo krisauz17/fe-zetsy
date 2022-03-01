@@ -18,3 +18,32 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+	font-family: fantasy;
+	color:rgb(117, 108, 108) ;
+}
+
+h2 {
+	font-family:fantasy;
+	color: rgb(117, 108, 108) ;
+}
+
+p {
+	font-family: fantasy;
+	color: rgb(117, 108, 108) ;
+}
+
+img {
+	border: 5px rgb(117, 108, 108) solid;
+}
+header {
+	font-size:xx-large;
+	border-bottom: 2px solid rgb(117, 108, 108);
+	margin-bottom: 2px;
+	padding-top: 50px;
+}
+
+footer {
+	text-align: right;
+}
